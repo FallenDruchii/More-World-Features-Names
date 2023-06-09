@@ -13,7 +13,8 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/2574315206</steamWorkshopUrl>
 		</li>
   </modDependencies>
-  <loadAfter>  
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>  
 	<li>imranfish.xmlextensions</li>
 	<li>ReGrowth.BOTR.Core</li>
 	<li>ReGrowth.BOTR.AspenForest</li>
